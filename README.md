@@ -1,9 +1,8 @@
-# College Management System In Java
+# KATIKAMU PRIMARY SCHOOL SYSTEM In JAVA
 
 ## Hi there !
 
-Here I have designed and developed College management system. The Technology I have used is Java Swing, and database i have used is MySql.
-This design is purely coded myself no copied content.
+Here we have designed and developed College management system. The Technology we have used is Java Swing, and database we have used is MySql.
 
 Thanks !
 
@@ -54,7 +53,7 @@ Thanks !
 * Admin password  : admin
 * Teacher userid  : Teacher id
 * Student Userid  : cource-sem-rollnumber (PS-1-1001)    
-* All password for student and teacher are their birthdays    
+* All passwords for student and teacher are their birthdays    
 
 
 
