@@ -2,7 +2,7 @@
 
 ## Hi there !
 
-Here we have designed and developed College management system. The Technology we have used is Java Swing, and database we have used is MySql.
+Here we have designed and developed  primary school management system. The Technology we have used is Java Swing, and database we have used is MySql.
 
 Thanks !
 
