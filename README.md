@@ -37,7 +37,7 @@ Thanks !
 ## Database Connection
 
 * We have used following 👇 data for database connection
-    * url="jdbc:mysql://localhost:3306/Collegedata";
+    * url="jdbc:mysql://localhost:3306/collegedata";
     * user name="root";
     * password="";
 
