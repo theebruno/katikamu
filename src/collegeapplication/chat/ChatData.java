@@ -16,7 +16,7 @@ import collegeapplication.student.Student;
 
 /*
  * Title : ChatData.java
- * Created by : Group 31
+ * Created by : Group K
  * Purpose : Manages all the data related to chat 
  *  
  */
@@ -397,7 +397,7 @@ public class ChatData {
 }
 /*
  * Title : NewMessage
- * Created by : Group 31
+ * Created by : Group K
  * Purpose : To calculate total messages,last message,last messagetime
  *  
  */

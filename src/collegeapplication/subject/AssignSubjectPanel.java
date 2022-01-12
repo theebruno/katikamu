@@ -27,7 +27,7 @@ import net.proteanit.sql.DbUtils;
 
 /*
  * Title : AssignSubjectPanel.java
- * Created by : Group 31
+ * Created by : Group K
  * Purpose : Displaying all the faculty with assigned subject
  *  
  */

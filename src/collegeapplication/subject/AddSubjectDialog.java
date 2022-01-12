@@ -30,7 +30,7 @@ import net.proteanit.sql.DbUtils;
 
 /*
  * Title : AddSubjectDialog.java
- * Created by : Group 31
+ * Created by : Group K
  * Purpose : For adding new subject to cource
  *  
  */

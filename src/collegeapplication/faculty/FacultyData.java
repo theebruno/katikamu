@@ -18,7 +18,7 @@ import collegeapplication.common.TimeUtil;
 
 /*
  * Title : FacultyData.java
- * Created by : Group 31
+ * Created by : Group K
  * Purpose : Handling all the data related to faculty
  *  
  */

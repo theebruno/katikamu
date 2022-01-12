@@ -194,7 +194,7 @@ public class AdminMain extends JFrame  implements ActionListener
 			exp.printStackTrace();
 		}
 		this.setResizable(false);
-		setTitle("Collage Data Management");
+		setTitle("Katikamu Primary School");
 		setDefaultCloseOperation(JFrame.DO_NOTHING_ON_CLOSE);
 		contentPane = new JPanel();
 		contentPane.setForeground(Color.DARK_GRAY);

@@ -7,7 +7,7 @@ import java.awt.*;
 
 /*
  * Title : ImageUtil.java
- * Created by : Group 31
+ * Created by : Group K
  * Purpose  : All the functions related to image like..
  * 			->Image to bufferedimage
  * 			->Resizing Bufferdimage

@@ -13,7 +13,7 @@ import collegeapplication.common.TimeUtil;
 
 /*
  * Title : SubjectData.java
- * Created by : Group 31
+ * Created by : Group K
  * Purpose : Handling all the data related to subject
  *  
  */

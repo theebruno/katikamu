@@ -37,7 +37,7 @@ import collegeapplication.admin.AdminMain;
 
 /*
  * Title : AddFacultyDialog.java
- * Created by : Group 31
+ * Created by : Group K
  * Purpose : For adding new faculty 
  *  
  */

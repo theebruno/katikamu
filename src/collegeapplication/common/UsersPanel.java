@@ -29,7 +29,7 @@ import collegeapplication.student.ViewStudentPanel;
 
 /*
  * Title : UserPanel.java
- * Created by : Group 31
+ * Created by : Group K
  * Purpose : To displaying users activity 
  *  
  */

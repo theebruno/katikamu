@@ -17,7 +17,7 @@ import javax.swing.JTextField;
 
 /*
  * Title : EditAdminLinksDialog.java
- * Created by : Group 31
+ * Created by : Group K
  * Purpose : With the help of this file admin can edit the social media links
  *  
  */

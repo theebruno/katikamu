@@ -34,7 +34,7 @@ import java.awt.Cursor;
 
 /*
  * Title : ChatMainPanel.java
- * Created by : Group 31
+ * Created by : Group K
  * Purpose : Main chat frame 
  *  
  */

@@ -56,7 +56,7 @@ import collegeapplication.student.StudentData;
 
 /*
  * Title : SubChatPanel.java ** Part of chat panel
- * Created by : Group 31
+ * Created by : Group K
  * Purpose : All the messages which user sending and receiving are handling here 
  *  
  */

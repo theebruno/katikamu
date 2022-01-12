@@ -38,7 +38,7 @@ import collegeapplication.student.StudentMain;
 @SuppressWarnings("serial")
 /*
  * Title : ContactListPanel.java
- * Created by : Group 31
+ * Created by : Group K
  * Purpose : To display all the contacts of the given user
  *  
  */

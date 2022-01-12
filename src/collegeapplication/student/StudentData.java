@@ -19,7 +19,7 @@ import collegeapplication.subject.SubjectData;
 
 /*
  * Title : StudentData.java
- * Created by : Group 31
+ * Created by : Group K
  * Purpose : Handling all the data related to student
  *  
  */

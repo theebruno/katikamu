@@ -34,7 +34,7 @@ import collegeapplication.student.StudentMain;
 
 /*
  * Title : PrintPageDialog.java
- * Created by : Group 31
+ * Created by : Group K
  * Purpose : To download student marksheet in selected format 
  *  
  */

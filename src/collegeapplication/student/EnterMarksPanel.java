@@ -38,7 +38,7 @@ import collegeapplication.subject.SubjectData;
 
 /*
  * Title : EnterMarksPanel.java
- * Created by : Group 31
+ * Created by : Group K
  * Purpose : For entering marks of student
  *  
  */

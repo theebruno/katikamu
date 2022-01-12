@@ -46,7 +46,7 @@ import collegeapplication.subject.SubjectData;
 
 /*
  * Title : MarkAttandancePanel.java
- * Created by : Group 31
+ * Created by : Group K
  * Purpose : For marking student attandance
  *  
  */

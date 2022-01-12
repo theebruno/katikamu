@@ -23,7 +23,7 @@ import javax.swing.JComponent;
 
 /*
  * Title : ViewStudentDialog.java
- * Created by : Group 31
+ * Created by : Group K
  * Purpose : Selecting student for finding more details
  *  
  */

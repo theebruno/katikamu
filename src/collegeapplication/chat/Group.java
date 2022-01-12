@@ -4,7 +4,7 @@ import java.awt.Image;
 
 /*
  * Title : Group.java
- * Created by : Group 31
+ * Created by : Group K
  * Purpose : To binding all the data related to group
  *  
  */

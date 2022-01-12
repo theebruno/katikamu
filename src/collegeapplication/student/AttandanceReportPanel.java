@@ -37,7 +37,7 @@ import collegeapplication.subject.SubjectData;
 
 /*
  * Title : AttandanceReportPanel.java
- * Created by : Group 31
+ * Created by : Group K
  * Purpose : For displaying student attandance according to class/subject/student wice
  *  
  */

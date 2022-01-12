@@ -23,7 +23,7 @@ import collegeapplication.faculty.FacultyMain;
 
 /*
  * Title : ViewStudentPanel.java
- * Created by : Group 31
+ * Created by : Group K
  * Purpose : Displaying all the details of student
  *  
  */

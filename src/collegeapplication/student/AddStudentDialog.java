@@ -42,7 +42,7 @@ import collegeapplication.subject.SubjectData;
 
 /*
  * Title : AddStudentDialog.java
- * Created by : Group 31
+ * Created by : Group K
  * Purpose : For adding new student or edit student details
  *  
  */

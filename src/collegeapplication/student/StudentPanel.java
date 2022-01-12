@@ -35,7 +35,7 @@ import net.proteanit.sql.DbUtils;
 
 /*
  * Title : StudentPanel.java
- * Created by : Group 31
+ * Created by : Group K
  * Purpose : Displaying all student details in table/photo view
  *  
  */

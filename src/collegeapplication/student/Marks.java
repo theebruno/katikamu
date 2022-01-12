@@ -4,7 +4,7 @@ import collegeapplication.subject.Subject;
 
 /*
  * Title : Marks.java
- * Created by : Group 31
+ * Created by : Group K
  * Purpose : Binding all the data related to marks
  *  
  */

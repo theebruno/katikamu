@@ -28,7 +28,7 @@ import collegeapplication.faculty.ViewFacultyPanel;
 
 /*
  * Title : AssignSubjectDialog.java
- * Created by : Group 31
+ * Created by : Group K
  * Purpose : For assigning subject to faculty
  *  
  */

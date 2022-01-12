@@ -21,7 +21,7 @@ import collegeapplication.student.Student;
 
 /*
  * Title : ChatInfoPanel.java
- * Created by : Group 31
+ * Created by : Group K
  * Purpose : To display user details at right side of panel
  *  
  */

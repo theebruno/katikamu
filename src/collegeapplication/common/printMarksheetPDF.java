@@ -23,7 +23,7 @@ import collegeapplication.student.StudentMain;
 
 /*
  * Title : PrintPDF.java
- * Created by : Group 31
+ * Created by : Group K
  * Purpose : For printing marksheet in PDF format
  * Reference : https://stackoverflow.com/ 
  *  

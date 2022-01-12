@@ -53,7 +53,7 @@ import collegeapplication.subject.AssignSubjectPanel;
 import collegeapplication.subject.SubjectPanel;
 /*
  * Title : FacultyMain.java
- * Created by : Group 31
+ * Created by : Group K
  * Purpose : Main faculty frame
  *  
  */
@@ -197,7 +197,7 @@ public class FacultyMain extends JFrame  implements ActionListener
 	    UIManager.put("ScrollBarUI", "com.sun.java.swing.plaf.windows.WindowsScrollBarUI");
 	  
 		this.setResizable(false);
-		setTitle("Collage Data Management");
+		setTitle("Katikamu Primary School");
 		setDefaultCloseOperation(JFrame.DO_NOTHING_ON_CLOSE);
 		contentPane = new JPanel();
 		contentPane.setForeground(Color.DARK_GRAY);

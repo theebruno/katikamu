@@ -21,7 +21,7 @@ import javax.swing.border.MatteBorder;
 
 /*
  * Title : RollGeneratorDialog.java
- * Created by : Group 31
+ * Created by : Group K
  * Purpose : Dialog for generating rollnumber 
  *  
  */

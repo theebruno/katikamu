@@ -21,7 +21,7 @@ import javax.swing.DefaultComboBoxModel;
 
 /*
  * Title : AddCourceDialog.java
- * Created by : Group 31
+ * Created by : Group K
  * Purpose : Dialog for adding new cource
  *  
  */

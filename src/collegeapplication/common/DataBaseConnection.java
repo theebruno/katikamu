@@ -4,7 +4,7 @@ import java.sql.*;
 
 /*
  * Title : DataBaseConnection.java
- * Created by : Group 31
+ * Created by : Group K
  * Purpose : For database connection
  *  
  */

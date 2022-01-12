@@ -17,7 +17,7 @@ import javax.swing.text.Document;
 
 /*
  * Title : HintPasswordField.java
- * Created by : Group 31
+ * Created by : Group K
  * Purpose : For giving hint to user in password field
  *  
  */

@@ -6,7 +6,7 @@ import collegeapplication.cource.CourceData;
 
 /*
  * Title : Faculty.java
- * Created by : Group 31
+ * Created by : Group K
  * Purpose : Binding all the of faculty
  *  
  */

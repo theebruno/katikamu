@@ -16,7 +16,7 @@ import javax.swing.text.Document;
   
 /*
  * Title : HintTextField.java
- * Created by : Group 31
+ * Created by : Group K
  * Purpose : For giving hint to user in text field
  *  
  */

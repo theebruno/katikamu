@@ -29,7 +29,7 @@ import collegeapplication.common.DataBaseConnection;
 
 /*
  * Title : LoginPageFrame.java
- * Created by : Group 31
+ * Created by : Group K
  * Purpose : Main login frame
  *  
  */

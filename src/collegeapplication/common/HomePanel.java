@@ -26,7 +26,7 @@ import collegeapplication.subject.SubjectData;
 
 /*
  * Title : HomePanel.java
- * Created by : Group 31
+ * Created by : Group K
  * Purpose : Home Page
  *  
  */

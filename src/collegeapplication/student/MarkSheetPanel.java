@@ -33,7 +33,7 @@ import collegeapplication.faculty.FacultyMain;
 
 /*
  * Title : MarkSheetPanel.java
- * Created by : Group 31
+ * Created by : Group K
  * Purpose : For displaying student marksheet
  *  
  */

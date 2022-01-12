@@ -23,7 +23,7 @@ import javax.swing.border.EmptyBorder;
 
 /*
  * Title : CourcePanel.java
- * Created by : Group 31
+ * Created by : Group K
  * Purpose : Displaying all the cources table using this file
  *  
  */

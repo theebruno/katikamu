@@ -13,7 +13,7 @@ import collegeapplication.student.Student;
 
 /*
  * Title : UserData.java
- * Created by : Group 31
+ * Created by : Group K
  * Purpose : For getting all the data related to user login activity
  *  
  */

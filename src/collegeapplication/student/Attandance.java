@@ -4,7 +4,7 @@ import collegeapplication.subject.Subject;
 
 /*
  * Title : UserData.java
- * Created by : Group 31
+ * Created by : Group K
  * Purpose : For binding all the data related to attandance
  *  
  */

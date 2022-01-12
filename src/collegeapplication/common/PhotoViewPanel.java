@@ -26,7 +26,7 @@ import collegeapplication.student.ViewStudentPanel;
 
 /*
  * Title : PhotoViewPanel.java
- * Created by : Group 31
+ * Created by : Group K
  * Purpose : To displaying students and faculties image
  *  
  */

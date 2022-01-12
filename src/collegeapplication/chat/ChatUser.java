@@ -6,7 +6,7 @@ import java.util.Date;
 
 /*
  * Title : ChatUser.java
- * Created by : Group 31
+ * Created by : Group K
  * Purpose : Binding all the data about chat
  *  
  */

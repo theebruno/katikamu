@@ -23,7 +23,7 @@ import collegeapplication.subject.AssignSubjectDialog;
 
 /*
  * Title : ViewFacultyPanel.java
- * Created by : Group 31
+ * Created by : Group K
  * Purpose : Displaying all the details of  faculty
  *  
  */

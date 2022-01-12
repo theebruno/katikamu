@@ -41,7 +41,7 @@ import net.proteanit.sql.DbUtils;
 
 /*
  * Title : SearchPanel.java
- * Created by : Group 31
+ * Created by : Group K
  * Purpose : For searching student of faculty
  *  
  */
