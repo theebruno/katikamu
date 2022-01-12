@@ -17,11 +17,6 @@ Thanks !
       * Student Marks Management
  * Advance Features 🔥
       * Rollnumber Generator
-      * Chatting
-          * Message delivered
-          * Unseen messages
-          * Notification
-          * Group chatting
       * Photo view of Students and Faculties
       * Student or Faculty login history
       * Download Marksheet
